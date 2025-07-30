@@ -116,7 +116,7 @@ Ensure Flutter is installed and working (`flutter doctor`)
 ```bash
 cd frontend
 flutter pub get
-flutter run -d chrome         # or edge or windows
+flutter run -d chrome         # or edge or device/emulator id
 ```
 
 To update the API base URL, open:
